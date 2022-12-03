@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @MathewBensonCode
-- 👀 I’m interested in C++, linux and windows
+- 👋 Hi, I’m @bensonorina
+- 👀 I’m interested in C++, C#, HTML5, javascript, linux and windows
 - 🌱 I’m currently learning Go, Rust
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @bensonorina on twitter
 
 <!---
