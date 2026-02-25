@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mathew Benson
 - 👀 I’m interested in C++, C#, HTML5, javascript, linux and windows
-- 🌱 I’m currently learning Go, Rust
 - 📫 How to reach me => hachyderm.io/@mathewbenson on mastadon and @bensonorina on twitter
 
 <!---
